@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PrintPrimeNumber",
+            "request": "launch",
+            "mainClass": "PrintPrimeNumber",
+            "projectName": "Leetcode_problems_b25e438d"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
