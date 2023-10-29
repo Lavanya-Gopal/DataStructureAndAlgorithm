@@ -1,4 +1,0 @@
-Find the Gcd of two numbers
-
-input :223, 34
-output:1
